@@ -75,13 +75,4 @@ The model has limited explanatory power, and some linear regression assumptions 
 
 **Note:** The dataset must be obtained separately to reproduce the analysis. The R code may not run until the required dataset file is available.
 
-## Authors
-
-- Malek Louati
-- Hafssa El Hdour
-- Abdou Dieng
-
-**Course:** Linear Regression  
-**Academic Year:** 2025–2026  
-**Institution:** Polytech Nice Sophia
 
